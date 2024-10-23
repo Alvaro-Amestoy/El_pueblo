@@ -1,0 +1,49 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 1rem;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(227, 55, 55);
+}
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#pueblo {
+    display: flex;
+    justify-content: center;
+    color: rgb(49, 190, 49);
+}
+
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section section article{
+    width: 10rem;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(69, 184, 245);
+}
+
+footer ul {
+    list-style: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(69, 184, 245);
+}
